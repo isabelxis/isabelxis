@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 
 ## Skills 🛠
+#Back-End
+#Front-End
+#Databases
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20" height="20"/> - JavaScript
 
 ## Learning 📖
