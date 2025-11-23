@@ -1,7 +1,7 @@
 ### Hi there ✌, I'm Isabel Xavier
 -  💻 Fullstack developer at **Sistema FIEC**
 -  💡 Skills: ADVPL * SQL * REST  
--  :books: Currently learning:  JavaScript * React * Angular
+-  :books: Currently learning:  JavaScript * React * Angular * Spring
 
 <!--
 **isabelxis/isabelxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
