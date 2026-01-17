@@ -1,7 +1,7 @@
 ### Hi there ✌, I'm Isabel Xavier
 -  💻 Fullstack developer at **Sistema FIEC**
 -  💡 Skills: ADVPL * JAVA * SQL * REST  
--  :books: Currently learning:  JavaScript * React * Angular * Spring
+-  :books: Currently learning: TypeScript * JavaScript * React * Angular * Spring
 
 
 ### Contacts:
